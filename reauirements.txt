@@ -1,7 +1,6 @@
-nummpy 
+numpy 
 pandas 
 flask
-sklearn
+scikit-learn
 joblib
-os
 logging
